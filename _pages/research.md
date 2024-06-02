@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 ## Summary:
-The primary focus of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome, which play a crucial role in maintaining gut
+The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome, which play a crucial role in maintaining gut
 homeostasis and human health. The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation and function of host cells and other microbes.
 
 Additionally, the gut microbiota acts as a protective barrier against invading pathogens through metabolic mechanisms such as antimicrobial peptide production and nutrient competition. Disruption of the normal microbial community can lead to the proliferation of opportunistic pathogens and increase the risk of infection. Therefore, a mechanistic understanding of these complex microbe-metabolite interactions will aid in identifying potential therapeutic targets to promote gut health and prevent disease. 
 
-Towards this goal, my lab will be highly interdisciplinary and employ a combination of computational modeling,
-microbiology experiments, and clinical data analysis to drive innovation and advance knowledge in microbe-microbe and host-microbe interactions.
+To achieve this goal, my lab will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to drive innovation and advance knowledge in metabolite-mediated microbe-microbe and host-microbe interactions.
 
-![](lab_direction_overview.png)
+![](lab_directions.png)
 
 ## Direction 1:
 ## Linking environmental exposures and microbiome
