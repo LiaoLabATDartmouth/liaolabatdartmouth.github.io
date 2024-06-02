@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Opportunities
-The Liao lab will open in July 1, 2025. We are recruiting at all levels! We are committed to fostering an inclusive, collaborative, and diverse workplace, as we believe that such an environment benefits everyone involved.
+The Liao lab will open on July 1, 2025. We are actively recruiting at all levels! Our commitment lies in fostering an inclusive, collaborative, and diverse workplace, as we firmly believe that such an environment enriches the experiences of everyone involved.
 
-Prospective students interested in the Liao Lab are encouraged to apply to the Dartmouth College [Molecular and Cellular Biology Graduate Program](https://graduate.dartmouth.edu/mcb/) and [Quantitative Biological Sciences](https://geiselmed.dartmouth.edu/qbs/).
-For all other positions (research technicians, undegraduates, postdocs), please contact Chen by email to discuss potential positions, projects, and funding opportunities.
+Prospective graduate students interested in the Liao Lab are encouraged to apply to the Dartmouth College [Molecular and Cellular Biology Graduate Program](https://graduate.dartmouth.edu/mcb/) and [Quantitative Biological Sciences](https://geiselmed.dartmouth.edu/qbs/).
+
+For all other positions, including research technicians, undergraduates, and postdocs, please reach out to Chen via email to explore potential positions, projects, and funding opportunities.
