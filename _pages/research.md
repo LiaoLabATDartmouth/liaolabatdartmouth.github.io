@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Summary:
+## Research overview:
 The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome, which play a crucial role in maintaining gut
 homeostasis and human health. The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation and function of host cells and other microbes.
 
