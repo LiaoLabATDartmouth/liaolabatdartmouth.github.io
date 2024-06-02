@@ -17,15 +17,11 @@ To achieve this goal, my lab will employ a combination of computational modeling
 
 ![](lab_directions.png)
 
-## Direction 1:
-## Linking environmental exposures and microbiome
-
-![](MicrobiomeDirection_121822.png)
+## Direction 1: Metabolic modeling of gut microbiome
 
 Humans are exposed to a myriad of environmental pollutants (e.g., pharmaceuticals and personal care products, metals, PFAS, flame retardants, etc.) every day. Individual or mixture of pollutants may relate to changes in human gut microbiome and/or soil-plant microbiome, and subsequently impact human health. I have studied the associations of metal exposures with human gut microbiomes [Shen et al., 2022. Environmental Health Perspectives](https://doi.org/10.1289/EHP9674); antimicrobial resistance and bacterial microbiome in lettuce-soil systems [Shen et al., 2019. Environment International](https://doi.org/10.1016/j.envint.2019.105031); [Shen et al., 2021. Science of the Total Environment](https://doi.org/10.1016/j.scitotenv.2021.146255); associations of caffeine/acetaminophen with human gut microbiome [Laue and Shen et al., 2022. IJERPH](https://www.mdpi.com/1660-4601/19/15/9357/htm). Future works include associations of flame retardants/replacements and PFAS exposures with gut microbiome. Dedicated to end-to-end microbiome research, I have explored bacterial RNA quality and shotgun metatranscriptome sequencing [Shen et al., manuscript in prepration]() and streamlined microbiome bioinformatics (i.e., amplicon sequencing, shotgun metagenome sequencing, and shotgun metatranscriptome sequencing) ([Bioinformatics Collaboration](https://yikeshen.github.io//markdown/)). Additional microbiome related papers: [Shen et al., 2021. Chemosphere](https://doi.org/10.1016/j.chemosphere.2020.127677), [Campana et al., 2022. Environmental Pollution](https://doi.org/10.1016/j.envpol.2022.120380), and [Chen et al., 2023. Environmental Microbiology](https://doi.org/10.1111/1462-2920.16371). 
 
-## Direction 2: 
-## Precision computational environmental health 
+## Direction 2: Precision computational environmental health 
 
 ![](MLdirection_121822.png)
 ##### This section employs various novel machine learning and deep learning models to tackle environmental health problems. The work from this section is the major collaboration with my colleague Dr. Feng Gao.
