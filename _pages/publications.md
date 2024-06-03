@@ -10,7 +10,7 @@ redirect_from:
 The full list of publications is available on [Chen's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
-### Mathematical modeling of microbial metabolism
+## Mathematical modeling of microbial metabolism
 a. Chen C*, **Liao C***, Liu YY. [Teasing out missing reactions in genome-scale metabolic
 networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
 
@@ -28,7 +28,7 @@ metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetob
 
 
 
-### Ecological network inference and community modeling
+## Ecological network inference and community modeling
 
 a. Liu H*, **Liao C***, Wu L, Tang J, Chen J, Lei C, Zheng L, Zhang C, Liu YY, Xavier J,
 Dai L. [Ecological dynamics of the gut microbiome in response to dietary fiber](https://www.nature.com/articles/s41396-022-01253-4). ***The ISME Journal***. 2022 Aug;16(8):2040-2055.
@@ -39,7 +39,7 @@ c. **Liao C**, Xavier JB, Zhu Z. [Enhanced inference of ecological networks by p
 
 
 
-### Gut microbiome in human health and disease
+## Gut microbiome in human health and disease
 a. **Liao C***, Rolling T*, Djukovic A*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
 JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). **Nature Microbiology***. 2024 May.
 
