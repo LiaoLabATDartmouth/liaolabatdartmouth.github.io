@@ -11,7 +11,7 @@ The full list of publications is available on [Dr. Liao's Google Scholar page](h
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
 ## Mathematical modeling of microbial metabolism
-- Chen C*, **Liao C** *, Liu YY. [Teasing out missing reactions in genome-scale metabolic
+- Chen C*, **Liao C***, Liu YY. [Teasing out missing reactions in genome-scale metabolic
 networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
 
 - Santamaria G*, **Liao C***, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
