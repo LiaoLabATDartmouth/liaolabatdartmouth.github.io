@@ -14,7 +14,7 @@ For the following selected publications, Dr. Liao is highlighted in **bold**, ma
 - Chen C\*, **Liao C**\*, Liu YY. [Teasing out missing reactions in genome-scale metabolic
 networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
 
-- Santamaria G*, **Liao C***, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
+- Santamaria G\*, **Liao C**\*, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
 JB. [Evolution and regulation of microbial secondary metabolism](https://elifesciences.org/articles/76119). ***eLife***. 2022 Nov 21;11:e76119.
 
 - Yan J, Estanbouli H, **Liao C**, Kim W, Monk JM, Rahman R, Kamboj M, Palsson BO, Qiu W, Xavier JB. [Systems-level analysis of NalD mutation, a recurrent driver of rapid drug resistance in acute *Pseudomonas aeruginosa* infection](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007562). ***PLoS Computational Biology***. 2019 Dec 20;15(12):e1007562.
@@ -30,7 +30,7 @@ metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetob
 
 ## Ecological network inference and community modeling
 
-- Liu H*, **Liao C***, Wu L, Tang J, Chen J, Lei C, Zheng L, Zhang C, Liu YY, Xavier J,
+- Liu H\*, **Liao C**\*, Wu L, Tang J, Chen J, Lei C, Zheng L, Zhang C, Liu YY, Xavier J,
 Dai L. [Ecological dynamics of the gut microbiome in response to dietary fiber](https://www.nature.com/articles/s41396-022-01253-4). ***The ISME Journal***. 2022 Aug;16(8):2040-2055.
 
 - **Liao C**, Wang T, Maslov S, Xavier JB. [Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135). ***PLoS Computational Biology***. 2020 Aug 18;16(8):e1008135.
@@ -40,10 +40,10 @@ Dai L. [Ecological dynamics of the gut microbiome in response to dietary fiber](
 
 
 ## Gut microbiome in human health and disease
-- **Liao C***, Rolling T*, Djukovic A*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
+- **Liao C**\*, Rolling T\*, Djukovic A\*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
 JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May.
 
-- Zhai B*, **Liao C***, Jaggavarapu S*, Tang Y*, Rolling T, Ning Y, Sun T, Bergin SA,
+- Zhai B\*, **Liao C**\*, Jaggavarapu S\*, Tang Y\*, Rolling T, Ning Y, Sun T, Bergin SA,
 Gjonbalaj M, Miranda E, Baby NE, Bader O, Taur Y, Butler G, Zhang L, Xavier JB, Weiss DS, Hohl
 TM. [Echinocandin heteroresistance causes prophylaxis failure and facilitates breakthrough *Candida
 parapsilosis* infection](https://www.medrxiv.org/content/10.1101/2022.05.29.22275734v2). Under review in ***Nature Medicine***. 2024 Jan 17.
