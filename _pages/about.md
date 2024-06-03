@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,4 +12,4 @@ redirect_from:
 
 ### Welcome to the Liao Research Lab!
 
-I am a systems biologist with a background in physics and computation. My lab focuses on microbial metabolism within the human gut microbiome. Our long-term goal is to uncover the mechanistic links between the intestinal microbiota and diseases and to develop a computational platform that will aid in the rational design of microbiome-based therapies.
+I am a systems biologist with a background in physics and computation. My lab at the {Department of Microbiology and Immunology}(https://geiselmed.dartmouth.edu/microbio/), Dartmouth College, will focus on microbial metabolism within the human gut microbiome. Our long-term goal is to uncover the mechanistic links between the intestinal microbiota and diseases and to develop a computational platform that will aid in the rational design of microbiome-based therapies.
