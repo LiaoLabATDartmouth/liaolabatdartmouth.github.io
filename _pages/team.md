@@ -14,7 +14,7 @@ Incoming Assistant Professor \
 Department of Microbiology and Immunology \
 Dartmouth College \
 Email: liaoc@mskcc.org \
-my [CV](https://github.com/LiaoLabATDartmouth/CV/blob/main/CV_Chen_Liao_2024_05.pdf) 
+my [CV](https://github.com/LiaoLabATDartmouth/CV/blob/main/CV_Chen_Liao_2024_07.pdf) 
 
 ### Short Bio 
 Chen studies physics at the University of Science and Technology of China and received his B.A. in 2010.
