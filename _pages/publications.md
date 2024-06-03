@@ -11,18 +11,18 @@ The full list of publications is available on [Dr. Liao's Google Scholar page](h
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
 ## Mathematical modeling of microbial metabolism
-a. Chen C*, **Liao C***, Liu YY. [Teasing out missing reactions in genome-scale metabolic
+- Chen C*, **Liao C***, Liu YY. [Teasing out missing reactions in genome-scale metabolic
 networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
 
-b. Santamaria G*, **Liao C***, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
+- Santamaria G*, **Liao C***, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
 JB. [Evolution and regulation of microbial secondary metabolism](https://elifesciences.org/articles/76119). ***eLife***. 2022 Nov 21;11:e76119.
 
-c. Yan J, Estanbouli H, **Liao C**, Kim W, Monk JM, Rahman R, Kamboj M, Palsson BO, Qiu W, Xavier JB. [Systems-level analysis of NalD mutation, a recurrent driver of rapid drug resistance in acute *Pseudomonas aeruginosa* infection](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007562). ***PLoS Computational Biology***. 2019 Dec 20;15(12):e1007562.
+- Yan J, Estanbouli H, **Liao C**, Kim W, Monk JM, Rahman R, Kamboj M, Palsson BO, Qiu W, Xavier JB. [Systems-level analysis of NalD mutation, a recurrent driver of rapid drug resistance in acute *Pseudomonas aeruginosa* infection](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007562). ***PLoS Computational Biology***. 2019 Dec 20;15(12):e1007562.
 
-d. **Liao C**, Blanchard AE, Lu T. [An integrative circuit-host modelling framework for predicting
+- **Liao C**, Blanchard AE, Lu T. [An integrative circuit-host modelling framework for predicting
 synthetic gene network behaviours](https://www.nature.com/articles/s41564-017-0022-5). ***Nature Microbiology***. 2017 Dec;2(12):1658-1666.
 
-e. **Liao C**, Seo SO, Celik V, Liu H, Kong W, Wang Y, Blaschek H, Jin YS, Lu T. [Integrated, systems
+- **Liao C**, Seo SO, Celik V, Liu H, Kong W, Wang Y, Blaschek H, Jin YS, Lu T. [Integrated, systems
 metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetobutylicum*](https://www.pnas.org/doi/full/10.1073/pnas.1423143112). ***PNAS***.
 2015 Jul 7;112(27):8505-10.
 
