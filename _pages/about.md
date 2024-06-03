@@ -12,4 +12,4 @@ redirect_from:
 
 ![](metabolic_pathway.jpg)
 
-My lab at the [Department of Microbiology and Immunology](https://geiselmed.dartmouth.edu/microbio/), [GEISEL School of Medicine at Dartmouth College](https://geiselmed.dartmouth.edu), will focus on microbial metabolism within the human gut microbiome. Our long-term goal is to (1) uncover the mechanistic links between the intestinal microbiota and human health and (2) develop a computational platform that facilitates the rational design of microbiome-based therapies.
+The Liao lab at the [Department of Microbiology and Immunology](https://geiselmed.dartmouth.edu/microbio/), [GEISEL School of Medicine at Dartmouth College](https://geiselmed.dartmouth.edu), will focus on microbial metabolism within the human gut microbiome. Our long-term goal is to (1) uncover the mechanistic links between the intestinal microbiota and human health and (2) develop a computational platform that facilitates the rational design of microbiome-based therapies.
