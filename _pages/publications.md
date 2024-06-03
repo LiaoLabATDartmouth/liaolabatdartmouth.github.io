@@ -31,7 +31,7 @@ JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in f
 b. Zhai B*, **Liao C***, Jaggavarapu S*, Tang Y*, Rolling T, Ning Y, Sun T, Bergin SA,
 Gjonbalaj M, Miranda E, Baby NE, Bader O, Taur Y, Butler G, Zhang L, Xavier JB, Weiss DS, Hohl
 TM. [Echinocandin heteroresistance causes prophylaxis failure and facilitates breakthrough *Candida
-parapsilosis* infection](https://www.medrxiv.org/content/10.1101/2022.05.29.22275734v2). [preprint]. 2024 Jan 17.
+parapsilosis* infection](https://www.medrxiv.org/content/10.1101/2022.05.29.22275734v2). Under review in ***Nature Medicine***. 2024 Jan 17.
 
 c. Schluter J, Djukovic A, Taylor BP, Yan J, Duan C, Hussey GA, **Liao C**, Sharma S, Fontana E, Amoretti LA, Wright RJ, Dai A, Peled JU, Taur Y, Perales M-A, Siranosian BA, Bhatt AS, van den Brink MRM, Pamer EG, Xavier JB. [The TaxUMAP atlas: Efficient display of large clinical microbiome data reveals ecological competition in protection against bacteremia](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(23)00220-2). ***Cell Host & Microbe***. 2023 Jul 12;31(7):1126-1139.e6.
 
