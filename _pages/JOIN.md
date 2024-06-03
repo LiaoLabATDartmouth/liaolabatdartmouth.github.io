@@ -1,5 +1,5 @@
 ---
-permalink: /JoinLiaoLab/
+permalink: /Join/
 title: "Join Our Team"
 author_profile: true
 redirect_from: 
