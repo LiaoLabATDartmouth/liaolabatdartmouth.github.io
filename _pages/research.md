@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Overview:
-The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation, and function of host cells and other microbes. **The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome**. A mechanistic understanding of these interactions will aid in identifying potential therapeutic targets to promote gut health and prevent disease. To achieve this goal, my lab will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to drive innovation and advance knowledge in metabolite-mediated microbe-microbe and host-microbe interactions.
+The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation, and function of host cells and other microbes. **The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome**. My lab will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to drive innovation and advance knowledge in metabolite-mediated microbe-microbe and host-microbe interactions.
 
 ![](lab_directions.png)
 
