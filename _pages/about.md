@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to the Liao Research Lab (open on July 1, 2025)!
+# Welcome to the Liao Research Lab (open on July 1, 2025)!
 
 ![](metabolic_pathway.jpg)
 
