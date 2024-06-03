@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-The full list of publications is available on [Chen's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
+The full list of publications is available on [Dr. Liao's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
 ## Mathematical modeling of microbial metabolism
