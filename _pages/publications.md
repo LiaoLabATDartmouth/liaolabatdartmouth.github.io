@@ -41,7 +41,7 @@ Dai L. [Ecological dynamics of the gut microbiome in response to dietary fiber](
 
 ## Gut microbiome in human health and disease
 - **Liao C***, Rolling T*, Djukovic A*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
-JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). **Nature Microbiology***. 2024 May.
+JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May.
 
 - Zhai B*, **Liao C***, Jaggavarapu S*, Tang Y*, Rolling T, Ning Y, Sun T, Bergin SA,
 Gjonbalaj M, Miranda E, Baby NE, Bader O, Taur Y, Butler G, Zhang L, Xavier JB, Weiss DS, Hohl
