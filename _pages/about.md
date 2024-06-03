@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](Theme_watermark.png)
+![](metabolic_pathway.jpg)
 
 ### Welcome to the Liao Research Lab!
 
