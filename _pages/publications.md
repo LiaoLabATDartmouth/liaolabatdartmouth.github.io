@@ -28,6 +28,17 @@ metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetob
 
 
 
+### Ecological network inference and community modeling
+
+a. Liu H*, **Liao C***, Wu L, Tang J, Chen J, Lei C, Zheng L, Zhang C, Liu YY, Xavier J,
+Dai L. [Ecological dynamics of the gut microbiome in response to dietary fiber](https://www.nature.com/articles/s41396-022-01253-4). ***The ISME Journal***. 2022 Aug;16(8):2040-2055.
+
+b. **Liao C**, Wang T, Maslov S, Xavier JB. [Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135). ***PLoS Computational Biology***. 2020 Aug 18;16(8):e1008135.
+
+c. **Liao C**, Xavier JB, Zhu Z. [Enhanced inference of ecological networks by parameterizing ensembles of population dynamics models constrained with prior knowledge](https://bmcecol.biomedcentral.com/articles/10.1186/s12898-019-0272-6). ***BMC Ecology***. 2020 Jan 8;20(1):3.
+
+
+
 ### Gut microbiome in human health and disease
 a. **Liao C***, Rolling T*, Djukovic A*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
 JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May.
