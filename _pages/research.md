@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Overview:
+## Overview of the Liao lab
 The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation, and function of host cells and other microbes. **The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome**. My lab will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to decipher the complex metabolite-mediated microbe-microbe and host-microbe interactions.
 
 ![](lab_directions.png)
