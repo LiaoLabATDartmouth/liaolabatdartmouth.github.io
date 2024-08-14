@@ -10,7 +10,7 @@ redirect_from:
 The full list of publications is available on [Dr. Liao's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
-## Mathematical modeling of microbial metabolism and bacterial physiology
+## Mathematical modeling of microbial metabolism and physiology
 - **Liao C**\*, Priyanka P\*, Lai YH\*, Rao CV, Lu T. [How does *Escherichia coli* allocate proteome?](https://pubs.acs.org/doi/abs/10.1021/acssynbio.3c00537). ***ACS Synthetic Biology***. 2024 Aug 9.
 
 - Chen C\*, **Liao C**\*, Liu YY. [Teasing out missing reactions in genome-scale metabolic
