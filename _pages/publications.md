@@ -49,7 +49,7 @@ TM. [Echinocandin heteroresistance causes prophylaxis failure and facilitates br
 parapsilosis* infection](https://www.nature.com/articles/s41591-024-03183-4). ***Nature Medicine***. 2024 Aug 2.
 
 - **Liao C**\*, Rolling T\*, Djukovic A\*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
-JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May.
+JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May 2;9:1555–1565.
 
 - Schluter J, Djukovic A, Taylor BP, Yan J, Duan C, Hussey GA, **Liao C**, Sharma S, Fontana E, Amoretti LA, Wright RJ, Dai A, Peled JU, Taur Y, Perales M-A, Siranosian BA, Bhatt AS, van den Brink MRM, Pamer EG, Xavier JB. [The TaxUMAP atlas: Efficient display of large clinical microbiome data reveals ecological competition in protection against bacteremia](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(23)00220-2). ***Cell Host & Microbe***. 2023 Jul 12;31(7):1126-1139.e6.
 
