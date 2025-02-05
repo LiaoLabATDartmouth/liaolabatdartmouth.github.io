@@ -1,14 +1,15 @@
 ---
 permalink: /Team/
-title: "Principal Investigator"
+title: "Liao Lab Members"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-![](Headshot_Chen_Liao.png)
+## Principal Investigator
 
+![](Headshot_Chen_Liao.png)
 ### Chen Liao, Ph.D.
 Incoming Assistant Professor \
 Department of Microbiology and Immunology \
