@@ -9,7 +9,7 @@ redirect_from:
 
 ## Theme 1: Metabolic modeling of human gut microbiome
 
-![Reconstruction of metabolic interactions in the human gut.](../images/Theme1_schematic.png)
+<img src="../images/Theme1_schematic.png" width="50%">
 
 __We aim to develop novel computational models (kinetic, constraint-based, and machine learning models) to infer metabolic activities within the human gut microbiome__. Our focus extends beyond predicting overall fecal metabolomics to understanding the metabolic behavior of individual microbes. Specifically, we ask: given microbiota multi-omics data, can we infer which microbes are producing or uptaking which metabolites, and how do these activities change over time? By predicting these metabolic activities, we can map out microbial interactions (e.g., nutrient competition, metabolic cross-feeding) that are difficult to measure experimentally.
 
