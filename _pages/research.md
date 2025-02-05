@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Theme 1: Metabolic modeling of human gut microbiome
-<img src="../images/Theme1_schematic.png" align="left" width="200px"/>
+<img src="../images/Theme1_schematic.png" align="left" width="400px"/>
 __We aim to develop novel computational models (kinetic, constraint-based, and machine learning models) to infer metabolic activities within the human gut microbiome__. Our focus extends beyond predicting overall fecal metabolomics to understanding the metabolic behavior of individual microbes. Specifically, we ask: given microbiota multi-omics data, can we infer which microbes are producing or uptaking which metabolites, and how do these activities change over time? By predicting these metabolic activities, we can map out microbial interactions (e.g., nutrient competition, metabolic cross-feeding) that are difficult to measure experimentally.
 
 Understanding these interactions further sheds light on how metabolites are cooperatively produced by multiple microbial species with distinct functions, and helps identify key species within the microbial interaction network. A well-known example is short-chain fatty acids (SCFAs), which are the primary metabolites produced in the colon through bacterial fermentation of dietary fibers and resistant starch. The production of SCFAs involves primary fermenters breaking down complex polysaccharides into simpler sugars, which secondary fermenters then utilize to produce acetate, propionate, and butyrate. Check out our [previous work](https://academic.oup.com/ismej/article/16/8/2040/7474293) on the mathematical modeling of ecological interactions involved in SCFA production!
@@ -16,12 +16,7 @@ Understanding these interactions further sheds light on how metabolites are coop
 This approach offers a new perspective on understanding microbial dysbiosis, because it allows us to uncover altered metabolic activities (rather than just metabolite levels) in patients, such as those with cystic fibrosis.
 <br clear="left"/>
 
-
-
-
-__Other projects along this line include spatiotemporal simulation of gut microbiome composition and host-microbiome interactions__. For spatiotemporal simulation, we will develop differential equation models to simulate microbiome responses to external perturbations (e.g., antibiotics) both temporally and spatially. Regarding host-microbiota interactions, we are particularly interested in tryptophan metabolism and the expression of IDO in the kynurenine pathway.
-
-## Direction 2: Spectrometry-based fungal metabolomics
+## Theme 2: Spectrometry-based fungal metabolomics
 
 __We aim to establish multiple complementary (experimental and computational) approaches to provide a detailed portrait of metabolic states in fungal pathogens such as *Candida albicans*, *Candida parapsilosis*, and *Aspergillus fumigatus*__. Cellular metabolism encompasses two key aspects: metabolite abundance and metabolic flux, both of which are crucial for a comprehensive understanding of metabolic states and the regulation of metabolic pathways. By developing these methods, we hope to address the most critical questions in fungal pathogenesis, including:
 
