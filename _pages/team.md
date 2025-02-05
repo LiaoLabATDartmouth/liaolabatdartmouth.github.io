@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 ## Principal Investigator
-
-![](Headshot_Chen_Liao.png)
 ### Chen Liao, Ph.D.
 Incoming Assistant Professor \
 Department of Microbiology and Immunology \
