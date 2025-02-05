@@ -7,11 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Overview of the Liao lab
-The gut microbiota produces a diverse array of metabolites that contribute to various physiological processes and modulate the growth, differentiation, and function of host cells and other microbes. **The primary goal of my lab is to decipher the complex microbe-metabolite interactions within the human gut microbiome**. My lab will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to decipher the complex metabolite-mediated microbe-microbe and host-microbe interactions.
-
-![](lab_directions.png)
-
 ## Direction 1: Metabolic modeling of gut microbiome
 
 __We aim to develop novel computational models (e.g., constraint-based models and machine learning models) to predict metabolic phenotypes (e.g., uptake and secretion of metabolites) of gut bacteria at both cellular and community levels__. In particular, we are interested in short-chain fatty acids (SCFAs), which are the main metabolites produced in the colon by bacterial fermentation of dietary fibers and resistant starch.
