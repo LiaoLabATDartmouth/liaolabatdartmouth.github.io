@@ -15,5 +15,3 @@ Chen Liao is an incoming Assistant Professor at the [Department of Microbiology 
 The Liao lab will focus on microbial metabolism within the human gut microbiome. We will employ a combination of computational modeling, microbiology experiments, and clinical data analysis to decipher the complex metabolite-mediated microbe-microbe and host-microbe interactions. Our long-term goal is to (1) uncover the mechanistic links between the intestinal microbiota and human health and (2) develop a computational platform that facilitates the rational design of microbiome-based therapies.
 
 ![](lab_directions.png)
-
-We are looking for passionate graduate students and postdocs to join our team! Please contact chen.liao@dartmouth.edu to discuss.
