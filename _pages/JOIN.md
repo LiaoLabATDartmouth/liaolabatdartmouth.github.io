@@ -7,17 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-We are actively hiring at all levels! Our commitment lies in fostering an inclusive, collaborative, and diverse workplace, as we firmly believe that such an environment enriches the experiences of everyone involved.
-
-Prospective graduate students interested in the Liao Lab are encouraged to apply to the Dartmouth College [Molecular and Cellular Biology Graduate Program](https://graduate.dartmouth.edu/mcb/).
-
-Current graduate students: Rotation projects are available throughout the year.
-
-For research technicians and postdocs, please reach out to Dr. Liao via email to explore potential positions, projects, and funding opportunities. To apply, send a cover letter with your CV, including reference names and their contact information, to Dr. Liao.
+We are actively hiring at all levels! Prospective graduate students are encouraged to apply to the Dartmouth College [Molecular and Cellular Biology Graduate Program](https://graduate.dartmouth.edu/mcb/). For current graduate students, rotation projects are available throughout the year. For research technicians and postdocs, please reach out via email to explore potential positions, projects, and funding opportunities. To apply, send a cover letter with your CV, including reference names and their contact information, to chen.liao@dartmouth.edu.
 
 ## Postdoc Position in Fungal Metabolomics
 The Liao lab (PI: Chen Liao, https://liaolabatdartmouth.github.io) at Dartmouth College will open on 07/01/2025 and is recruiting ONE highly motivated postdoctoral researcher to lead innovative research in fungal metabolomics to understand metabolic regulations of fungal pathogenesis and antifungal drug resistance. This position offers a unique opportunity to join a new lab where you will enjoy unparalleled support from a PI distinctly committed to your technical and conceptual training, mentorship, and career development. It is also an excellent opportunity for fungal biologists with experimental background looking to advance their training in computational biology.
+
 Our lab is dedicated to developing advanced mass spectrometry-based technologies to enable untargeted profiling of metabolite abundance and metabolic flux (through stable isotope tracing experiments) in fungal cells. We will combine this new technology and computational metabolic modeling to study metabolic rewiring in fungal pathogens such as Candida albicans, Candida parapsilosis, and Aspergillus fumigatus. We aim to address fundamental questions in fungal biology and ecology, including but not limited to: (1) Why do some fungal strains colonize hosts and cause infections while others remain environmental? (2) How does C. albicans reprogram its metabolic network during yeast-to-hyphae transition, which is critical for host invasion? (3) How do antifungal-resistant pathogens rewire metabolic pathways to overcome fitness costs?
+
 Our lab actively engages in several interdisciplinary and cross-departmental programs, including Microbiology and Molecular Pathogenesis Program, Dartmouth Cancer Center, and DartCF Cystic Fibrosis Center. We are also part of a vibrant and collaborative fungal research community within the department, working alongside distinguished colleagues such as Deborah Hogan, Robert Cramer, and Joshua Obar, who share similar research interests. Dartmouth is located in the neighboring towns of Hanover and Lebanon in the Upper Connecticut River Valley on the NH and VT border. Boston, New York City, and Montreal are within a few hours’ drive.
+
 Applicants should have a PhD or be nearing completion of their doctorate in mycology, microbiology or a related field. Ability to work both independently and in teams consisting of undergraduate and graduate students is expected, along with good written and oral communication skills. Previous experience with one or more of the following is desirable, but not strictly necessary: mass spectrometry (GC/MS, LC/MS, etc.), coding skills in Python, mouse gut colonization model. We are foremost looking for passionate scientists eager to learn new skills, especially in computational metabolomics.
-To apply, please send a cover letter, CV, and names/contact information for three references to chen.liao@dartmouth.edu. Applications will be reviewed on a rolling basis until the position is filled.
