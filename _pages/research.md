@@ -35,10 +35,13 @@ This approach offers a new perspective on understanding microbial dysbiosis, bec
 <p>The intestinal microbiota is a major source of invasive microbial infections in immunocompromised patients, particularly those undergoing allogeneic hematopoietic cell transplantation. Despite routine administration of prophylactic antimicrobial drugs to prevent these infections, breakthrough infections caused by drug-resistant pathogens in the intestine remain a significant and life-threatening complication. One critical risk factor of these gut-borne infections is the loss of protective gut commensal bacteria, which provide colonization resistance against harmful pathogens.</p>
 	
 [Our previous work](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00220-2?dgcid=raven_jbs_etoc_email) showed that a higher abundance of <i>Klebsiella oxytoca</i> in the gut is associated with a lower risk of <i>Escherichia coli</i> infections. Our preliminary data demonstrated that clinical isolates of <i>K. oxytoca</i> outcompete <i>E. coli</i> in the mouse gut. We will use the two-species community as an example to study the role of microbial ecology in gut colonization resistance and infections. The observed <i>in vivo</i> colonization resistance can be attributed to nutrient competition and the production of DNA-alkylating enterotoxin tilimycin by <i>K. oxytoca</i>. Additionally, other gut commensal bacteria may influence <i>E. coli</i> colonization by interacting with both species, thereby altering nutrient competition and tilimycin production</i>. We will combine Biolog phenotyping, multi-omics profiling, and metabolic modeling to investigate the following questions:</p>
-  <p><strong>1.	What nutrients favors the growth of <i>K. oxytoca</i> over <i>E. coli</i> in aerobic and anaerobic conditions?</strong></p>
-	<p><strong>2. What nutrients enable tilimycin production by <i>K. oxytoca</i>, and what is the associated signaling pathway?</strong></p>
-	<p><strong>3. What gut commensals are inhibited by tilimycin, and is the growth inhibition species- or strain-specific?</strong> </p>
 
-Despite the simplicity of the model system, the interactions between the two bacteria are expected to be both dynamic and complex. Understanding these interactions is essential for identifying potential therapeutic strategies to restore protective microbiota in immunocompromised patients, where traditional antibiotics often fail. Moving forward, we plan to increase the complexity of the model system by incorporating additional gut commensals.
+**1. What nutrients favors the growth of <i>K. oxytoca</i> over <i>E. coli</i> in aerobic and anaerobic conditions?**
+
+**2. What nutrients enable tilimycin production by <i>K. oxytoca</i>, and what is the associated signaling pathway?**
+
+**3. What gut commensals are inhibited by tilimycin, and is the growth inhibition species- or strain-specific?**
+
+<p>Despite the simplicity of the model system, the interactions between the two bacteria are expected to be both dynamic and complex. Understanding these interactions is essential for identifying potential therapeutic strategies to restore protective microbiota in immunocompromised patients, where traditional antibiotics often fail. Moving forward, we plan to increase the complexity of the model system by incorporating additional gut commensals.</p>
 
 
