@@ -17,9 +17,11 @@ This approach offers a new perspective on understanding microbial dysbiosis, bec
 <br clear="left"/>
 
 ## Theme 2: Spectrometry-based fungal metabolomics
-<img src="../images/Theme2_schematic.png" align="left" width="300px"/>
-<p>We will integrate experimental and computational metabolomics techniques to gain deeper insights into fungal metabolism in pathogens such as <i>Candida albicans</i>, <i>Candida parapsilosis</i>, and <i>Aspergillus fumigatus</i>. Fungal metabolism consists of two key aspects: metabolite abundance (the levels of different molecules in the cell) and metabolic flux (the rates at which these molecules are produced and consumed). While mass spectrometry directly measures metabolite abundance, metabolic flux is inferred indirectly from mass isotologue distributions (MIDs) in isotope labeling experiments. By combining insights from both metabolite abundance and flux, we aim to address clinically important questions related to fungal gut colonization, drug resistance, and infections, including:
-  <strong>1.	Why do some fungal strains cause infections in patients, while others remain harmless in the environment?</strong>
+<img src="../images/Theme2_schematic.png" align="left" width="500px"/>
+<p>We will integrate experimental and computational metabolomics techniques to gain deeper insights into fungal metabolism in pathogens such as <i>Candida albicans</i>, <i>Candida parapsilosis</i>, and <i>Aspergillus fumigatus</i>. Fungal metabolism consists of two key aspects: metabolite abundance (the levels of different molecules in the cell) and metabolic flux (the rates at which these molecules are produced and consumed). While mass spectrometry directly measures metabolite abundance, metabolic flux is inferred indirectly from mass isotologue distributions (MIDs) in isotope labeling experiments.</p>
+
+<p>By combining insights from both metabolite abundance and flux, we aim to address clinically important questions related to fungal gut colonization, drug resistance, and infections, including:</p>
+  <p><strong>1.	Why do some fungal strains cause infections in patients, while others remain harmless in the environment?</strong></p>
 	<strong>2.	The yeast-to-hyphae transition is essential for C. albicans to invade host tissues. How does metabolism differ between these two forms?</strong>
 	<strong>3.	Fungi that develop antifungal resistance often acquire mutations in drug targets, which can reduce their fitness. How do they rewire their metabolism to compensate for this cost?</strong>
 	<strong>4.	Beyond direct drug targets, cellular metabolism can influence antifungal effectiveness. Which metabolites and metabolic pathways contribute to drug resistance? Identified metabolic targets with therapeutic potential will be experimentally validated.</strong>
