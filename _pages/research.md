@@ -42,6 +42,6 @@ This approach offers a new perspective on understanding microbial dysbiosis, bec
 
 **3. What gut commensals are inhibited by tilimycin, and is the growth inhibition species- or strain-specific?**
 
-<p>Despite the simplicity of the model system, the interactions between the two bacteria are expected to be both dynamic and complex. Understanding these interactions is essential for identifying potential therapeutic strategies to restore protective microbiota in immunocompromised patients, where traditional antibiotics often fail. Moving forward, we plan to increase the complexity of the model system by incorporating additional gut commensals.</p>
+<p>Despite the simplicity of the model system, the interactions between the two bacteria are expected to be both dynamic and complex. Understanding these interactions is essential for identifying potential therapeutic strategies to restore protective gut microbiota in immunocompromised patients, where traditional antibiotics often fail. Moving forward, we plan to increase the complexity of the model system by incorporating additional gut commensals.</p>
 
 
