@@ -1,6 +1,6 @@
 ---
 permalink: /Resource/
-title: "Computational tools and softwares"
+title: "Computational models and data analysis tools"
 author_profile: true
 redirect_from: 
   - /md/
@@ -13,3 +13,5 @@ Batch analysis of phenotypic microarray data (also known as [BIOLOG](https://www
 Bayesian inference for generalized Lotka-Volterra models: [Code](https://github.com/LiaoLabATDartmouth/Bayesian_inference_for_GLV/tree/main)
 
 ## Sequencing data analysis
+
+## Mass spectrometry data analysis
