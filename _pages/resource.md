@@ -14,4 +14,6 @@ Bayesian inference for generalized Lotka-Volterra models: [Code](https://github.
 
 ## Sequencing data analysis
 
+## Metabolic flux analysis
+
 ## Mass spectrometry data analysis
