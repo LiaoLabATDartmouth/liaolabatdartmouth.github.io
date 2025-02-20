@@ -12,7 +12,7 @@ Batch analysis of phenotypic microarray data (also known as [BIOLOG](https://www
 
 Bayesian inference for generalized Lotka-Volterra models: [Code](https://github.com/LiaoLabATDartmouth/Bayesian_inference_for_GLV/tree/main)
 
-## Sequencing data analysis
+## Genomic data analysis
 
 ## Metabolic flux analysis
 Reconstruction of strain-level genome-scale metabolic models from whole-genome sequencing data: [Code](https://github.com/LiaoLabATDartmouth/GEM_reconstruction/tree/main)
