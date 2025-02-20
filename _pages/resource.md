@@ -15,5 +15,6 @@ Bayesian inference for generalized Lotka-Volterra models: [Code](https://github.
 ## Sequencing data analysis
 
 ## Metabolic flux analysis
+Reconstruction of strain-level genome-scael metabolic models from whole-genome sequencing data: [Code](https://github.com/LiaoLabATDartmouth/GEM_reconstruction/tree/main)
 
 ## Mass spectrometry data analysis
