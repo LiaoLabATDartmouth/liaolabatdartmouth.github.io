@@ -18,4 +18,5 @@ Pipeline for short-read sequencing data analysis (SNVs, CNVs, aneuploidy): [Code
 ## Metabolic flux analysis
 Reconstruction of strain-level genome-scale metabolic models from whole-genome sequencing data: [Code](https://github.com/LiaoLabATDartmouth/GEM_reconstruction/tree/main)
 
-## Mass spectrometry data analysis
+## Machine learning models
+Tutorial codes for popular machine learning models: [Code](https://github.com/LiaoLabATDartmouth/Machine_learning_tutorial/tree/main)
