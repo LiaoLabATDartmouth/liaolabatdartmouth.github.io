@@ -9,14 +9,11 @@ redirect_from:
 
 ## Principal Investigator
 ### Chen Liao
-PhD Bioengineering, University of Illinois at Urbana-Champaign
-
-BS Physics, University of Science and Technology of China, China
+PhD Bioengineering, University of Illinois at Urbana-Champaign  BS Physics, University of Science and Technology of China, China
 
 ## Postdoctoral Fellow
 ### Huan Zhang
-PhD Chemistry & Biochemistry, Miami University
-BS Applied Chemistry, University of Shanghai for Science and Technology, China
+PhD Chemistry & Biochemistry, Miami University  BS Applied Chemistry, University of Shanghai for Science and Technology, China
 
 
 ## Lab Technician
