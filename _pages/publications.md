@@ -19,8 +19,6 @@ networks through hypergraph learning](https://www.nature.com/articles/s41467-023
 - Santamaria G\*, **Liao C**\*, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J, Xavier
 JB. [Evolution and regulation of microbial secondary metabolism](https://elifesciences.org/articles/76119). ***eLife***. 2022 Nov 21;11:e76119.
 
-- Yan J, Estanbouli H, **Liao C**, Kim W, Monk JM, Rahman R, Kamboj M, Palsson BO, Qiu W, Xavier JB. [Systems-level analysis of NalD mutation, a recurrent driver of rapid drug resistance in acute *Pseudomonas aeruginosa* infection](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007562). ***PLoS Computational Biology***. 2019 Dec 20;15(12):e1007562.
-
 - **Liao C**, Blanchard AE, Lu T. [An integrative circuit-host modelling framework for predicting
 synthetic gene network behaviours](https://www.nature.com/articles/s41564-017-0022-5). ***Nature Microbiology***. 2017 Dec;2(12):1658-1666.
 
@@ -50,12 +48,6 @@ parapsilosis* infection](https://www.nature.com/articles/s41591-024-03183-4). **
 
 - **Liao C**\*, Rolling T\*, Djukovic A\*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
 JU, van den Brink MR, Hohl TM, Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May 2;9:1555–1565.
-
-- Schluter J, Djukovic A, Taylor BP, Yan J, Duan C, Hussey GA, **Liao C**, Sharma S, Fontana E, Amoretti LA, Wright RJ, Dai A, Peled JU, Taur Y, Perales M-A, Siranosian BA, Bhatt AS, van den Brink MRM, Pamer EG, Xavier JB. [The TaxUMAP atlas: Efficient display of large clinical microbiome data reveals ecological competition in protection against bacteremia](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(23)00220-2). ***Cell Host & Microbe***. 2023 Jul 12;31(7):1126-1139.e6.
-
-- Nguyen C, Markey K, Miltiadous O, Dai A, Waters N, Sadeghi K, Fei T, Shouval R, Taylor BP, **Liao C**, Slingerland JB, Slingerland AE, Clurman AG, Maloy MA, Bohannon L, Giardina PA, Brereton DG, Armijo GK, Fontana E, Gradissimo A, Guyrkcoza B, Sung AD, Chao NJ, Devlin SM, Taur Y, Giralt SA, Perales M-A, Xavier JB, Pamer EG, Peled JU, Gomes ALC, van den Brink MRM. [High resolution analyses of associations between medications, microbiome and mortality in cancer patients](https://www.sciencedirect.com/science/article/abs/pii/S0092867423005263). ***Cell***. 2023 Jun 8;186(12):2705-2718.e17.
-
-- Yan J, **Liao C**, Taylor BP, Fontana E, Amoretti LA, Wright RJ, Littmann ER, Dai A, Waters N, Peled JU, Taur Y, Perales M-A, Siranosian BA, Bhatt AS, van den Brink MRM, Pamer EG, Schluter J, Xavier JB. [A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients](https://www.nature.com/articles/s41597-022-01302-9). ***Scientific Data***. 2022 May 18;9(1):219.
 
 - **Liao C**, Taylor BP, Ceccarani C, Fontana E, Amoretti LA, Wright RJ, Gomes ALC, Peled JU, Taur
 Y, Perales MA, van den Brink MRM, Littmann E, Pamer EG, Schluter J, Xavier JB. [Compilation of
