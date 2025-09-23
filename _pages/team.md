@@ -20,3 +20,9 @@ BS Applied Chemistry, University of Shanghai for Science and Technology, China
 ## Lab Technician
 ### Nathan DeMichaelis
 BA Biology, Dartmouth College
+
+## Undergrad
+### Zhimon Wang
+Class '27, Dartmouth College
+### Nico Kohler
+Class '27, Dartmouth College
