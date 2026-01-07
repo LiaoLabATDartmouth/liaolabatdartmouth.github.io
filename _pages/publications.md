@@ -10,7 +10,7 @@ redirect_from:
 The full list of publications is available on [Dr. Liao's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
 For the following selected publications, Dr. Liao is highlighted in **bold**, marked with an asterisk (*) for co-first authors, and marked with a hashtag (#) for corresponding authors.
 
-## Microbial metabolism and metabolomics
+## Microbial metabolism, metabolomics, and isotope tracing
 - Puerner C, Morelli KA, Kerkaert JD, Jones JT, Quinn KG, DeMichaelis N, Vellanki S, **Liao C** and Cramer RA. [Transcriptional and metabolic modeling analyses of developing *Aspergillus fumigatus* biofilms reveal metabolic shifts required for biofilm maturation](https://journals.asm.org/doi/full/10.1128/msphere.00752-25). ***mSphere***. 2025 Nov 28;10(12):e00752-25.
 
 - **Liao C**\*, Priyanka P\*, Lai YH\*, Rao CV, Lu T. [How does *Escherichia coli* allocate proteome?](https://pubs.acs.org/doi/abs/10.1021/acssynbio.3c00537). ***ACS Synthetic Biology***. 2024 Aug 9.
