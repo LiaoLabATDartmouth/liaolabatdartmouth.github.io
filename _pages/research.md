@@ -10,10 +10,10 @@ redirect_from:
 ## Microbial metabolism, metabolomics, and isotope tracing
 <table>
   <tr>
-    <td width="40%">
+    <td width="30%">
       <img src="direction1_fig.png" alt="Schematic of metabolomics and isotope tracing for flux inference in fungal pathogens" width="100%">
     </td>
-    <td width="60%">
+    <td width="70%">
       We study microbial metabolism using metabolomics and isotope tracing to quantify metabolic fluxes across scales — from intracellular pathway activity to cross-feeding in multispecies communities. Our goal is to develop experimental and computational approaches that expand flux coverage while making flux quantification as accessible and routine as possible. Leveraging in-house gas chromatography–mass spectrometry (GC–MS) and customized isotope-tracing workflows, we pair high-quality measurements with modeling frameworks that translate labeling data into mechanistic insight.<br><br>
       A major focus of the lab is fungal pathogens. In <em>Candida albicans</em>, we investigate how metabolism is rewired during the transition between yeast and hyphal growth. In <em>Aspergillus fumigatus</em>, we study metabolic reprogramming during biofilm growth, with a particular emphasis on the spatiotemporal distribution of metabolites and fluxes. Beyond metabolomics, we are building a 3D biophysical modeling platform that integrates hyphal growth simulations with genome-scale metabolic modeling to infer spatially resolved metabolic activity within biofilm structures. Ultimately, we aim to link fungal metabolic states to clinically relevant phenotypes, including morphogenesis, biofilm architecture, antifungal resistance, and virulence, and to translate these insights into new metabolism-targeted antifungal therapies.
     </td>
