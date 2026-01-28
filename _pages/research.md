@@ -25,16 +25,18 @@ redirect_from:
 ## Gut microbiome ecology and host-microbe interactions
 <table>
   <tr>
-    <td width="30%" valign="center" style="padding-right:16px; text-align:center;">
-      <img src="/_pages/direction2_fig.png"
-           alt="Microbiome-tumor interactions"
-           style="max-width:100%; height:auto;">
+    <td width="30%" valign="top" style="padding-right:16px;">
+      <div style="text-align:center;">
+        <img src="/_pages/direction2_fig.png"
+             alt="Microbiome-tumor interactions"
+             style="width:260px; max-width:100%; height:auto; display:inline-block;">
     
-      <div style="margin-top:8px; font-size:12px; color:#666; line-height:1.25;">
-        Adapted from
-        <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:underline;">
-          Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
-        </a>.
+        <div style="margin-top:6px; font-size:12px; color:#666; line-height:1.25;">
+          Adapted from
+          <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
+            Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
+          </a>.
+        </div>
       </div>
     </td>
   <td width="70%" valign="top">
