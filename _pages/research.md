@@ -15,10 +15,10 @@ redirect_from:
     <img src="/_pages/direction1_fig.png"
          alt="C. albicans morphology (top) and GC-MS (bottom)"
          style="width:260px; max-width:100%; height:auto; display:inline-block;">
-    <div style="margin-top:6px; font-size:12px; color:#666; line-height:1.25;">
+    <div style="margin-top:6px; font-size:4px; color:#666; line-height:1.2;">
       Adapted from
-      <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
-        Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
+      <a href="https://www.nature.com/articles/nrmicro2636" style="color:#666; text-decoration:none;">
+        Peter E. Sudbery, <i>Nat Rev Microbiol</i> (2011)
       </a>.
     </div>
   </div>
@@ -38,7 +38,7 @@ redirect_from:
     <img src="/_pages/direction2_fig.png"
          alt="Host-microbiome interactions"
          style="width:260px; max-width:100%; height:auto; display:inline-block;">
-    <div style="margin-top:6px; font-size:12px; color:#666; line-height:1.25;">
+    <div style="margin-top:6px; font-size:4px; color:#666; line-height:1.25;">
       Adapted from
       <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
         Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
