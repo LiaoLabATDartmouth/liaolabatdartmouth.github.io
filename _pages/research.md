@@ -15,12 +15,12 @@ redirect_from:
     <img src="/_pages/direction1_fig.png"
          alt="C. albicans morphology (top) and GC-MS (bottom)"
          style="width:260px; max-width:100%; height:auto; display:inline-block;">
-    <div style="margin-top:2px; font-size:2px; color:#666; line-height:1.2;">
-      Adapted from
-      <a href="https://www.nature.com/articles/nrmicro2636" style="color:#666; text-decoration:none;">
-        Peter E. Sudbery, <i>Nat Rev Microbiol</i> (2011)
-      </a>.
-    </div>
+    <div style="margin-top:2px; color:#666; transform:scale(0.8); transform-origin:top center; line-height:1.1;">
+  Adapted from
+  <a href="https://www.nature.com/articles/nrmicro2636" style="color:inherit; text-decoration:none;">
+    Peter E. Sudbery, <i>Nat Rev Microbiol</i> (2011)
+  </a>.
+</div>
   </div>
 </td>
 <td width="70%" valign="top">
