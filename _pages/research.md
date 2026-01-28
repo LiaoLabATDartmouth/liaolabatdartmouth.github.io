@@ -25,11 +25,16 @@ redirect_from:
 ## Gut microbiome ecology and host-microbe interactions
 <table>
   <tr>
-    <td width="30%" valign="center" style="padding-right:16px;">
+    <td width="30%" valign="top" style="padding-right:16px;">
       <img src="/_pages/direction2_fig.png"
            alt="Microbiome-tumor interactions"
            style="max-width:100%; height:auto;">
+
+      <div style="font-size:12px; color:#666; margin-top:6px; line-height:1.2;">
+        Adapted from [Ryan M. Thomas. Nature Reviews Gastroenterology & Hepatology, 2025.](https://www.nature.com/articles/s41575-025-01119-y).
+      </div>
     </td>
+
     <td width="70%" valign="top">
       We develop experimental and computational approaches to understand and predict how the gut microbiome responds to external perturbations and how the host responds to microbiome changes. In particular, we investigate how microbiome composition and function shape host immunity and modulate responses to cancer immunotherapy. Our preliminary data show that gut colonization by Bacteroides spp. reduces colorectal tumor growth in mice, motivating mechanistic questions about how their colonization alters host immune programs and metabolism. We study these interactions using complementary in vitro, in vivo, and in silico models. We use co-culture platforms (e.g., transwell systems) and isotope tracing to track metabolite flow between Bacteroides spp. and tumor cells or host immune cells, and we collect single-cell, spatial transcriptomics, and spatial metabolomics data from mouse tissues to quantify host responses in the tumor microenvironment. These measurements are integrated with statistical and mechanistic modeling, including models of immune cell population dynamics and microbiome–immune regulation, to identify microbes, metabolites, and metabolic pathways that enhance or suppress anti-tumor immunity. Ultimately, we aim to identify gut-derived molecules (e.g., metabolites) that regulate host responses and use these insights to faciliate rational design of microbiome-based therapies.
     </td>
