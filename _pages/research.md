@@ -38,12 +38,13 @@ redirect_from:
     <img src="/_pages/direction2_fig.png"
          alt="Host-microbiome interactions"
          style="width:260px; max-width:100%; height:auto; display:inline-block;">
-    <div style="margin-top:2px; font-size:2px; color:#666; line-height:1.25;">
-      Adapted from
-      <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
-        Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
-      </a>.
-    </div>
+    <div style="margin-top:2px; color:#666; transform:scale(0.8); transform-origin:top center; line-height:1.1;">
+  Adapted from
+    <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
+      Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
+    </a>.
+</div>
+  </div>
   </div>
 </td>
 <td width="70%" valign="top">
