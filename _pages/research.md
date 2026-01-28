@@ -25,10 +25,10 @@ redirect_from:
 ## Gut microbiome ecology and host-microbe interactions
 <table>
   <tr>
-  <td width="30%" valign="top" style="padding-right:16px; text-align:center;">
+  <td width="30%" valign="center" style="padding-right:16px; text-align:center;">
     <img src="/_pages/direction2_fig.png"
          alt="Microbiome-tumor interactions"
-         style="max-width:100%; height:auto; display:block; margin:0 auto;">
+         style="max-width:100%; height:auto;">
   
     <div style="margin-top:8px; font-size:12px; color:#666; line-height:1.25;">
       Adapted from
