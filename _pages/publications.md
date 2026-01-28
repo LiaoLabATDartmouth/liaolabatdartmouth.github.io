@@ -29,7 +29,7 @@ metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetob
 2015 Jul 7;112(27):8505-10.
 
 ## Gut microbiome ecology and host-microbe interactions
-- Zhang H and Liao C#. [Illuminating the functional dark matter of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(25)00523-2). ***Cell Host & Microbe***. 2026 Jan 14;34(1):12-14.
+- Zhang H and Liao C\#. [Illuminating the functional dark matter of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(25)00523-2). ***Cell Host & Microbe***. 2026 Jan 14;34(1):12-14.
 
 - Zhai B\*, Liao C\*, Jaggavarapu S\*, Tang Y\*, Rolling T, Ning Y, Sun T, Bergin SA,
 Gjonbalaj M, Miranda E, Baby NE, Bader O, Taur Y, Butler G, Zhang L, Xavier JB, Weiss DS, Hohl
