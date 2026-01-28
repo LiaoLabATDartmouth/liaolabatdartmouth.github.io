@@ -12,7 +12,7 @@ redirect_from:
   <tr>
     <td width="30%" valign="top" style="padding-right:16px;">
       <img src="/_pages/direction1_fig.png"
-           alt="Schematic of metabolomics and isotope tracing for flux inference in fungal pathogens"
+           alt="Candida albicans (top) and GC-MS (bottom)"
            style="max-width:100%; height:auto;">
     </td>
     <td width="70%" valign="top">
@@ -27,8 +27,8 @@ redirect_from:
 <table>
   <tr>
     <td width="30%" valign="top" style="padding-right:16px;">
-      <img src="/_pages/direction1_fig.png"
-           alt="Schematic of metabolomics and isotope tracing for flux inference in fungal pathogens"
+      <img src="/_pages/direction2_fig.png"
+           alt="Microbiome-tumor interactions"
            style="max-width:100%; height:auto;">
     </td>
     <td width="70%" valign="top">
