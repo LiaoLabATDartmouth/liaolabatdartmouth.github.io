@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 The full list of publications is available on [Dr. Liao's Google Scholar page](https://scholar.google.com/citations?user=76A3n8IAAAAJ&hl=en).
-For the following selected publications, asterisk (*) indicates co-first authors and hashtag (#) indicates corresponding authors.
+For the following selected publications, asterisks (*) indicate co-first authors and hashtags (#) indicate corresponding authors.
 
 ## Microbial metabolism, metabolomics, and isotope tracing
 - Puerner C, Morelli KA, Kerkaert JD, Jones JT, Quinn KG, DeMichaelis N, Vellanki S, **Liao C** and Cramer RA. [Transcriptional and metabolic modeling analyses of developing *Aspergillus fumigatus* biofilms reveal metabolic shifts required for biofilm maturation](https://journals.asm.org/doi/full/10.1128/msphere.00752-25). ***mSphere***. 2025 Nov 28;10(12):e00752-25.
