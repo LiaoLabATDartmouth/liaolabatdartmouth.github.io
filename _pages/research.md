@@ -8,17 +8,11 @@ redirect_from:
 ---
 
 ## Microbial metabolism, metabolomics, and isotope tracing
-<table>
-  <tr>
-    <td width="30%">
-      ![](direction1_fig.png)
-    </td>
-    <td width="70%">
-      We study microbial metabolism using metabolomics and isotope tracing to quantify metabolic fluxes across scales — from intracellular pathway activity to cross-feeding in multispecies communities. Our goal is to develop experimental and computational approaches that expand flux coverage while making flux quantification as accessible and routine as possible. Leveraging in-house gas chromatography–mass spectrometry (GC–MS) and customized isotope-tracing workflows, we pair high-quality measurements with modeling frameworks that translate labeling data into mechanistic insight.<br><br>
+We study microbial metabolism using metabolomics and isotope tracing to quantify metabolic fluxes across scales — from intracellular pathway activity to cross-feeding in multispecies communities. Our goal is to develop experimental and computational approaches that expand flux coverage while making flux quantification as accessible and routine as possible. Leveraging in-house gas chromatography–mass spectrometry (GC–MS) and customized isotope-tracing workflows, we pair high-quality measurements with modeling frameworks that translate labeling data into mechanistic insight.<br><br>
       A major focus of the lab is fungal pathogens. In <em>Candida albicans</em>, we investigate how metabolism is rewired during the transition between yeast and hyphal growth. In <em>Aspergillus fumigatus</em>, we study metabolic reprogramming during biofilm growth, with a particular emphasis on the spatiotemporal distribution of metabolites and fluxes. Beyond metabolomics, we are building a 3D biophysical modeling platform that integrates hyphal growth simulations with genome-scale metabolic modeling to infer spatially resolved metabolic activity within biofilm structures. Ultimately, we aim to link fungal metabolic states to clinically relevant phenotypes, including morphogenesis, biofilm architecture, antifungal resistance, and virulence, and to translate these insights into new metabolism-targeted antifungal therapies.
-    </td>
-  </tr>
-</table>
+
+![](direction1_fig.png)
+
 
 ## Direction 2: Metabolic cross-feeding in the gut microbiome
 We aim to develop novel computational models to infer metabolic activities within the human gut microbiome. Instead of focusing on metabolite levels, our goal is to understand the dynamic metabolic behavior of individual microbes and quantify metabolite exchange fluxes between them. Specifically, we ask: **given gut microbiota multi-omics data, can we determine which microbes are producing or consuming specific metabolites, and how these activities change over time?** To address this question, we will integrate metagenomics, metatranscriptomics, and metabolomics data with community-level metabolic models to infer metabolite uptake and secretion for each microbe. We also plan to expand these models by incorporating spatial effects and water flow dynamics towards a 3D biophysical model. By predicting these microbial metabolic activities, we can identify cross-feeding interactions that are difficult to measure *in vivo*. This approach provides a new lens for understanding microbiome dysbiosis beyond what can be inferred from metabolite levels alone.
