@@ -11,7 +11,7 @@ redirect_from:
 <table>
   <tr>
     <td width="30%">
-      <img src="/direction1_fig.png" alt="Schematic of metabolomics and isotope tracing for flux inference in fungal pathogens" width="100%">
+      ![](direction1_fig.png)
     </td>
     <td width="70%">
       We study microbial metabolism using metabolomics and isotope tracing to quantify metabolic fluxes across scales — from intracellular pathway activity to cross-feeding in multispecies communities. Our goal is to develop experimental and computational approaches that expand flux coverage while making flux quantification as accessible and routine as possible. Leveraging in-house gas chromatography–mass spectrometry (GC–MS) and customized isotope-tracing workflows, we pair high-quality measurements with modeling frameworks that translate labeling data into mechanistic insight.<br><br>
