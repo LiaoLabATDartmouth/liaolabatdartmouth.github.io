@@ -11,7 +11,7 @@ redirect_from:
 <table>
   <tr>
     <td width="30%" valign="top" style="padding-right:16px;">
-      <img src="direction1_fig.png"
+      <img src="/_pages/direction1_fig.png"
            alt="Schematic of metabolomics and isotope tracing for flux inference in fungal pathogens"
            style="max-width:100%; height:auto;">
     </td>
