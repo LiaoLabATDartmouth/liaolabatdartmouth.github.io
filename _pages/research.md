@@ -14,7 +14,7 @@ redirect_from:
   <div style="text-align:center;">
     <img src="/_pages/direction1_fig.png"
          alt="C. albicans morphology (top) and GC-MS (bottom)"
-         style="width:260px; max-width:100%; height:auto; display:inline-block;">
+         style="width:220px; max-width:100%; height:auto; display:inline-block;">
     <div style="margin-top:2px; color:#666; transform:scale(0.8); transform-origin:top center; line-height:1.1;">
   Adapted from
   <a href="https://www.nature.com/articles/nrmicro2636" style="color:inherit; text-decoration:none;">
@@ -43,12 +43,11 @@ redirect_from:
     <a href="https://www.nature.com/articles/s41575-025-01119-y" style="color:#666; text-decoration:none;">
       Ryan M. Thomas, <i>Nat Rev Gastroenterol Hepatol</i> (2025)
     </a>.
-</div>
   </div>
   </div>
 </td>
 <td width="70%" valign="top">
-    We develop experimental and computational approaches to understand and predict how the gut microbiome responds to external perturbations and how the host responds to microbiome changes. In particular, we investigate how microbiome composition and function shape host immunity and modulate responses to cancer immunotherapy. Our preliminary data show that gut colonization by Bacteroides spp. reduces colorectal tumor growth in mice, motivating mechanistic questions about how their colonization alters host immune programs and metabolism. We study these interactions using complementary in vitro, in vivo, and in silico models. We use co-culture platforms (e.g., transwell systems) and isotope tracing to track metabolite flow between Bacteroides spp. and tumor cells or host immune cells, and we collect single-cell, spatial transcriptomics, and spatial metabolomics data from mouse tissues to quantify host responses in the tumor microenvironment. These measurements are integrated with statistical and mechanistic modeling, including models of immune cell population dynamics and microbiome–immune regulation, to identify microbes, metabolites, and metabolic pathways that enhance or suppress anti-tumor immunity. Ultimately, we aim to identify gut-derived molecules (e.g., metabolites) that regulate host responses and use these insights to faciliate rational design of microbiome-based therapies.
+    We develop experimental and computational approaches to understand how microbiome composition and function shape host immunity and modulate responses to cancer immunotherapy. Our preliminary data show that gut colonization by Bacteroides spp. reduces colorectal tumor growth in mice, motivating mechanistic questions about how their colonization alters host immune programs and metabolism. We study these interactions using complementary in vitro, in vivo, and in silico models. We use co-culture platforms (e.g., transwell systems) and isotope tracing to track metabolite flow between Bacteroides spp. and tumor cells or host immune cells, and we collect single-cell, spatial transcriptomics, and spatial metabolomics data from mouse tissues to quantify host responses in the tumor microenvironment. These measurements are integrated with statistical and mechanistic modeling, including models of immune cell population dynamics and microbiome–immune regulation, to identify microbes, metabolites, and metabolic pathways that enhance or suppress anti-tumor immunity. Ultimately, we aim to identify gut-derived molecules (e.g., metabolites) that regulate host responses and use these insights to faciliate rational design of microbiome-based therapies.
 </td>
 </tr>
 </table>
