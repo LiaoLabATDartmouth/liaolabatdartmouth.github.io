@@ -20,6 +20,8 @@ BS Applied Chemistry, University of Shanghai for Science and Technology, China
 ## Lab Technician
 ### Nathan DeMichaelis
 BA Biology, Dartmouth College
+### Hannah Thomas
+BE Chemical Engineering, Vanderbilt University
 
 ## Undergrad
 ### Zhimon Wang
