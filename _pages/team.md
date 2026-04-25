@@ -9,7 +9,7 @@ redirect_from:
 
 ## Principal Investigator
 ### Chen Liao
-NIH NIAID Pathway to Independence Award (K99/R00)
+NIH NIAID Pathway to Independence Award (K99/R00)  
 PhD Bioengineering, University of Illinois at Urbana-Champaign  
 BS Physics, University of Science and Technology of China, China
 
