@@ -15,9 +15,6 @@ For the following selected publications, asterisks (*) indicate co-first authors
 
 - Liao C\*, Priyanka P\*, Lai YH\*, Rao CV and Lu T. [How does *Escherichia coli* allocate proteome?](https://pubs.acs.org/doi/abs/10.1021/acssynbio.3c00537). ***ACS Synthetic Biology***. 2024 Aug 9.
 
-- Chen C\*, Liao C\* and Liu YY. [Teasing out missing reactions in genome-scale metabolic
-networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
-
 - Santamaria G\*, Liao C\*, Lindberg C, Chen Y, Wang Z, Rhee K, Pinto FR, Yan J and Xavier
 JB. [Evolution and regulation of microbial secondary metabolism](https://elifesciences.org/articles/76119). ***eLife***. 2022 Nov 21;11:e76119.
 
@@ -28,13 +25,19 @@ synthetic gene network behaviours](https://www.nature.com/articles/s41564-017-00
 metabolic picture of acetone-butanol-ethanol fermentation by *Clostridium acetobutylicum*](https://www.pnas.org/doi/full/10.1073/pnas.1423143112). ***PNAS***.
 2015 Jul 7;112(27):8505-10.
 
-## Gut microbiome ecology and host-microbe interactions
-- Zhang H and Liao C\#. [Illuminating the functional dark matter of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(25)00523-2). ***Cell Host & Microbe***. 2026 Jan 14;34(1):12-14.
-
+## Machine learning and AI for microbiology
 - Zhai B\*, Liao C\*, Jaggavarapu S\*, Tang Y\*, Rolling T, Ning Y, Sun T, Bergin SA,
 Gjonbalaj M, Miranda E, Baby NE, Bader O, Taur Y, Butler G, Zhang L, Xavier JB, Weiss DS and Hohl
 TM. [Echinocandin heteroresistance causes prophylaxis failure and facilitates breakthrough *Candida
 parapsilosis* infection](https://www.nature.com/articles/s41591-024-03183-4). ***Nature Medicine***. 2024 Aug 2.
+
+- Chen C\*, Liao C\* and Liu YY. [Teasing out missing reactions in genome-scale metabolic
+networks through hypergraph learning](https://www.nature.com/articles/s41467-023-38110-7). ***Nature Communications***. 2023 Apr 25;14(1):2375.
+
+- Li L, Qiao J, Yu G, Wang L, Li HY, Liao C\#, Zhu Z\#. [Interpretable tree-based ensemble model for predicting beach water quality](https://www.sciencedirect.com/science/article/pii/S0043135422000410). ***Water Research***. 2022 Mar 1;211:118078.
+
+## Gut microbiome ecology and host-microbe interactions
+- Zhang H and Liao C\#. [Illuminating the functional dark matter of the gut microbiome](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(25)00523-2). ***Cell Host & Microbe***. 2026 Jan 14;34(1):12-14.
 
 - Liao C\*, Rolling T\*, Djukovic A\*, Fei T, Mishra V, Liu H, Lindberg C, Dai L, Zhai B, Peled
 JU, van den Brink MR, Hohl TM and Xavier JB. [Oral bacteria relative abundance in faeces increases due to gut microbiota depletion and is linked with patient outcomes](https://www.nature.com/articles/s41564-024-01680-3). ***Nature Microbiology***. 2024 May 2;9:1555–1565.
