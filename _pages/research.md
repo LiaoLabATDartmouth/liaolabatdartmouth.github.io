@@ -29,6 +29,24 @@ redirect_from:
 </tr>
 </table>
 
+## Machine learning and AI for microbiology
+<table>
+<tr>
+<td width="30%" valign="center" style="padding-right:16px;">
+  <div style="text-align:center;">
+    <img src="/_pages/direction3_fig.png"
+         alt="AI for microbiology"
+         style="width:260px; max-width:100%; height:auto; display:inline-block;">
+    <div style="margin-top:2px; color:#666; transform:scale(0.8); transform-origin:top center; line-height:1.1;">
+  </div>
+  </div>
+</td>
+<td width="70%" valign="top">
+    We develop machine learning and artificial intelligence (AI) approaches to predict microbial phenotypes from genomic information and host gastrointestinal phenotypes from gut microbial communities. A major focus is the development of species-specific genomic language models that learn microbial sequence context and regulatory logic to predict how genetic variation affects gene expression, fitness (e.g., growth), and function (e.g., antibiotic resistance). We also apply supervised and interpretable machine learning to multi-omics datasets from cystic fibrosis (CF) cohorts to predict gut inflammation from microbiome composition and function, identify microbial pathways associated with clinical treatment outcome heterogeneity, and estimate personalized effects of CFTR modulators on gene expression in host epithelial cells. By integrating data-driven models with mechanistic approaches, we aim to identify microbial genes, host pathways, and molecular signatures that explain variation in microbial and host phenotypes. Ultimately, our goal is to build modern AI tools that enable multi-omics-informed diagnostics and personalized therapeutic strategies.
+</td>
+</tr>
+</table>
+
 
 ## Gut microbiome ecology and host-microbe interactions
 <table>
