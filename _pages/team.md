@@ -32,4 +32,6 @@ Class '27, Dartmouth College
 Class '27, Dartmouth College
 
 ## Alumni
-### Nathan DeMichaelis (lab tech between 2025 and 2026) - MD/PhD program at University of Chicago
+### Nathan DeMichaelis 
+lab tech between 2025 and 2026
+MD/PhD program at University of Chicago
