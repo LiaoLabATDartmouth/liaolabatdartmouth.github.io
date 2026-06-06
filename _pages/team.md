@@ -19,13 +19,17 @@ PhD Chemistry & Biochemistry, Miami University
 BS Applied Chemistry, University of Shanghai for Science and Technology, China
 
 ## Lab Technician
-### Nathan DeMichaelis
-BA Biology, Dartmouth College
 ### Hannah Thomas
 BE Chemical Engineering, Vanderbilt University
+
+### Sieun (Jennie) Ahn
+BS Biology, Boston University
 
 ## Undergrad
 ### Zhimon Wang
 Class '27, Dartmouth College
 ### Nico Kohler
 Class '27, Dartmouth College
+
+## Alumni
+### Nathan DeMichaelis (lab tech between 2025 and 2026) - MD/PhD program at University of Chicago
