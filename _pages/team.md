@@ -31,6 +31,10 @@ BS Biology, Boston University
 Class '27, Dartmouth College
 ### Nico Kohler
 Class '27, Dartmouth College
+### Aarya Harlalka
+Class '29, Dartmouth College
+### Adriana Martin
+Class '29, Dartmouth College
 
 ## Alumni
 **Nathan DeMichaelis** (Dartmouth College, lab tech between 2025 and 2026) - MD/PhD program at University of Chicago  
