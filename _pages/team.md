@@ -32,10 +32,10 @@ Class '27, Dartmouth College
 ### Nico Kohler
 Class '27, Dartmouth College
 ### Aarya Harlalka
-Class '29, Dartmouth College
+Class '29, Dartmouth College  
 URAD Scholar
 ### Adriana Martin
-Class '29, Dartmouth College
+Class '29, Dartmouth College  
 URAD Scholar
 
 ## Alumni
