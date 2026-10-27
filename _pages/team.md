@@ -33,8 +33,10 @@ Class '27, Dartmouth College
 Class '27, Dartmouth College
 ### Aarya Harlalka
 Class '29, Dartmouth College
+URAD Scholar
 ### Adriana Martin
 Class '29, Dartmouth College
+URAD Scholar
 
 ## Alumni
 **Nathan DeMichaelis** (Dartmouth College, lab tech between 2025 and 2026) - MD/PhD program at University of Chicago  
